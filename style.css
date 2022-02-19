@@ -223,5 +223,6 @@ body {
 
   .cta {
     margin: 100px;
+    width: auto;
   }
 }
